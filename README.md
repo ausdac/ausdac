@@ -22,12 +22,14 @@ My journey in information systems and security has led me to develop a passion f
 | Ansible Playbook Automation                   | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+    <img src="https://img.shields.io/badge/-Burp%20Suite-F47B20?&style=for-the-badge&logo=Burp-Suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP%20ZAP-02599C?&style=for-the-badge&logo=OWASP-ZAP&logoColor=white" />
+</div>
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Burp%20Suite-F47B20?&style=for-the-badge&logo=Burp-Suite&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-5C6BC0?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div>
 

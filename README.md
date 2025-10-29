@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/austin-dachel-8263ba149"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate from Metropolitan State University of Denver with a Bachelor’s degree in Computer Information Systems and a concentration in Cybersecurity. I am starting my masters in Cybersecurity at CU Denver in the Spring of 2026.
+I graduated from Metropolitan State University of Denver with a Bachelor’s degree in Computer Information Systems and a concentration in Cybersecurity. I am starting my masters in Cybersecurity at CU Denver in the Spring of 2026.
 I have experience supporting IT infrastructure, managing server deployments, and automating provisioning using tools like Ansible and Docker.
 My current focus is transitioning into a Security Engineer or Cybersecurity Analyst role, where I can apply my technical foundation in systems, networking, and security to help protect and improve enterprise environments.
 
